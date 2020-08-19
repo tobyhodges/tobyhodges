@@ -1,4 +1,4 @@
-## Curriculum Community Developer at The @carpentries
+## Curriculum Community Developer @carpentries
 Pronouns: he/him  
 Twitter: [@tbyhdgs](https://twitter.com/tbyhdgs)  
 Web: [tbyhdgs.info](https://tbyhdgs.info)  

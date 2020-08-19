@@ -7,7 +7,7 @@ I'm a bioinformatician turned community coordinator,
 who enjoys teaching computational research skills and
 creating high-quality lesson material.
 I help members of [The Carpentries](https://carpentries.org) community create new lessons,
-using design approaches based on the current runderstanding of how people learn.
+using design approaches based on the current understanding of how people learn.
 Check out @carpentries-incubator to see some of the lessons we're building together.
 
 If you're interested in creating a lesson yourself,

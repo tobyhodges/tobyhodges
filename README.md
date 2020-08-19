@@ -1,7 +1,7 @@
 ## Curriculum Community Developer at The @carpentries
 Pronouns: he/him  
 Twitter: [@tbyhdgs](https://twitter.com/tbyhdgs)  
-Web: [tbyhdg.info](https://tbyhdgs.info)  
+Web: [tbyhdgs.info](https://tbyhdgs.info)  
 
 I'm a bioinformatician turned community coordinator, 
 who enjoys teaching computational research skills and

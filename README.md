@@ -1,4 +1,4 @@
-## Curriculum Community Developer @carpentries
+## Director of Curriculum @carpentries
 Pronouns: he/him  
 Twitter: [@tbyhdgs](https://twitter.com/tbyhdgs)  
 Web: [tbyhdgs.info](https://tbyhdgs.info)  
@@ -6,7 +6,8 @@ Web: [tbyhdgs.info](https://tbyhdgs.info)
 I'm a bioinformatician turned community coordinator, 
 who enjoys teaching computational research skills and
 creating high-quality lesson material.
-I help members of [The Carpentries](https://carpentries.org) community create new lessons,
+I lead the Curriculum Team at [The Carpentries](https://carpentries.org),
+where we help members of our community create new lessons,
 using design approaches based on the current understanding of how people learn.
 Check out @carpentries-incubator to see some of the lessons we're building together.
 

@@ -1,7 +1,5 @@
 ## Director of Curriculum @carpentries
 
-**👨‍🍼 on parental leave until Jan 2022 👨‍🍼**
-
 Pronouns: he/him  
 Twitter: [@tbyhdgs](https://twitter.com/tbyhdgs)  
 Web: [tbyhdgs.info](https://tbyhdgs.info)  

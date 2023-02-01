@@ -10,7 +10,7 @@ creating high-quality lesson material.
 I lead the Curriculum Team at [The Carpentries](https://carpentries.org),
 where we help members of our community create new lessons,
 using design approaches based on the current understanding of how people learn.
-Check out @carpentries-incubator to see some of the lessons we're building together.
+Check out [@carpentries-incubator](https://github.com/carpentries-incubator) to see some of the lessons we're building together.
 
 If you're interested in creating a lesson yourself,
 or you'd like to contribute to or review a lesson already under development,

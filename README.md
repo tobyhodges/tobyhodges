@@ -1,5 +1,4 @@
 Pronouns: he/him  
-Twitter: [@tbyhdgs](https://twitter.com/tbyhdgs)  
 Web: [tbyhdgs.info](https://tbyhdgs.info)  
 
 I'm a bioinformatician turned community coordinator, 
